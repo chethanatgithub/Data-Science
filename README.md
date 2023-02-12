@@ -6,3 +6,6 @@
 - Diagnostic analysis
 - Predictive analysis
 - Prescriptive analysis
+
+## What is data?
+> Data is collection of information. Data can be anything like text, image,video ,sounds.There can be existing data or data being aquired.
