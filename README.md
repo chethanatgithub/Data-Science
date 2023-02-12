@@ -9,3 +9,5 @@
 
 ## What is data?
 > Data is collection of information. Data can be anything like text, image,video ,sounds.There can be existing data or data being aquired.
+
+## What are the techniques used in Data science
