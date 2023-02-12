@@ -16,7 +16,17 @@
 - Regression
 - Clustering
 
-## Exporatory data analysis
-> Explorator data analysi(EDA) is used in the field of data science to analyse and invetigate the dataset to find out the main characteristics of the data.
+## Data science life Cycle
+- Business Understanding
+- Data mining
+- Data cleaning
+- Data exploration
+- Feature Engineering
+- Predictive modeling
+- Data visualization
+
+
+## Exploratory data analysis
+> Exploratory data analysi(EDA) is used in the field of data science to analyse and invetigate the dataset to find out the main characteristics of the data.
 > The main purpose of EDA is to help look at data before making any assumptions.
 
