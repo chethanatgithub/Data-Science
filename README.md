@@ -11,3 +11,12 @@
 > Data is collection of information. Data can be anything like text, image,video ,sounds.There can be existing data or data being aquired.
 
 ## What are the techniques used in Data science
+> Different techniques are use in data science
+- classification
+- Regression
+- clustering
+
+## Exporatory data analysis
+> Explorator data analysi(EDA) is used in the field of data science to analyse and invetigate the dataset to find out the main characteristics of the data.
+> The main purpose of EDA is to help look at data before making any assumptions.
+
