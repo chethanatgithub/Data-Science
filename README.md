@@ -12,9 +12,9 @@
 
 ## What are the techniques used in Data science
 > Different techniques are use in data science
-- classification
+- Classification
 - Regression
-- clustering
+- Clustering
 
 ## Exporatory data analysis
 > Explorator data analysi(EDA) is used in the field of data science to analyse and invetigate the dataset to find out the main characteristics of the data.
