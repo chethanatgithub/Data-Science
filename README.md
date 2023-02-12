@@ -17,16 +17,19 @@
 - Clustering
 
 ## Data science life Cycle
-- Business Understanding
-- Data mining
-- Data cleaning
-- Data exploration
-- Feature Engineering
-- Predictive modeling
-- Data visualization
 
+[![Data science life cycle](https://raw.githubusercontent.com/chethanatgithub/Data-Science/main/images/Data%20Science%20Life%20Cycle.JPG "Data science life cycle")](https://raw.githubusercontent.com/chethanatgithub/Data-Science/main/images/Data%20Science%20Life%20Cycle.JPG "Data science life cycle")
 
-## Exploratory data analysis
+### 1.Business Problem Understanding
+> To solve any business problem, first we should understand the problem.At this stage asking questions related to project problems, and expectations.
+### 2.Data Collection
+### 3.Data cleaning and preparation
+### 4.Exploratory data analysis
 > Exploratory data analysi(EDA) is used in the field of data science to analyse and invetigate the dataset to find out the main characteristics of the data.
 > The main purpose of EDA is to help look at data before making any assumptions.
+### 5.Feature Engineering
+### 6.Machine Learning
+### 7.Model Evaluation
+### 8.Data Visualization
+
 
