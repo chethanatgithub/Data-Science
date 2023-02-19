@@ -27,7 +27,7 @@
 ### 4.Exploratory data analysis
 > Exploratory data analysi(EDA) is used in the field of data science to analyse and invetigate the dataset to find out the main characteristics of the data.
 > The main purpose of EDA is to help look at data before making any assumptions.
-- [EDA on IPL Matches ][https://github.com/chethanatgithub/Data-Science/blob/main/Exploratory%20Data%20Analysis/IPL%20Matches/EDA_chethan.bekal%40gmail.com.ipynb](https://github.com/chethanatgithub/Data-Science/blob/main/Exploratory%20Data%20Analysis/IPL%20Matches/EDA_chethan.bekal%40gmail.com.ipynb)
+- [EDA IPL Matches](Exploratory Data Analysis/IPL Matches/EDA_chethan.bekal@gmail.com.ipynb "EDA IPL Matches")
 ### 5.Feature Engineering
 ### 6.Machine Learning
 ### 7.Model Evaluation
