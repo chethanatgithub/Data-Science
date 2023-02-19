@@ -6,3 +6,4 @@
 
 ![Winning Percentage ](https://raw.githubusercontent.com/chethanatgithub/Data-Science/main/images/Winning_percentage_of_each_team.JPG "Winning Percentage ")
 
+![Number of tosses won by each Team](https://raw.githubusercontent.com/chethanatgithub/Data-Science/main/images/Number of tosses won by each Team.JPG "Number of tosses won by each Team ")
